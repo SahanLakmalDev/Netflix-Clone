@@ -4,10 +4,10 @@
 
 **Disclaimer**: This project is not affiliated with, endorsed, or sponsored by Netflix. It is purely a learning and educational exercise.
 
-![YouTube Clone](resources/Screenshot-5.png)
-![YouTube Clone](resources/Screenshot-2.png)
-![YouTube Clone](resources/Screenshot-3.png)
-![YouTube Clone](resources/Screenshot-4.png)
+![Netflix Clone](resources/Screenshot-5.png)
+![Netflix Clone](resources/Screenshot-2.png)
+![Netflix Clone](resources/Screenshot-3.png)
+![Netflix Clone](resources/Screenshot-4.png)
 
 ## Table of Contents
 
